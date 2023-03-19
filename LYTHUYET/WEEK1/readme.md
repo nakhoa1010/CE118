@@ -11,7 +11,7 @@ After Encoding C with J-K Flip Flop
 
 |Present State|CD||||
 |---|---|---|---|---|
-|Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub>|00|01|11|10|
+|**Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub>**|00|01|11|10|
 |000|XXXXXX|XXXXXX|XXXXXX|XXXXXX|
 |001|0X0XX0|0X0XX0|1X0XX1|0X1XX1|
 |011|XXXXXX|XXXXXX|XXXXXX|XXXXXX|
@@ -24,7 +24,7 @@ After Encoding C with J-K Flip Flop
 ### J<sub>2</sub>: Q<sub>0</sub>'CD' + Q<sub>1</sub>'CD					
 | Present State |CD||||
 | ------------- | --- | -- |--|--|
-| Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub> | 00  | 01 | 11 | 10 |
+| **Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub>** | 00  | 01 | 11 | 10 |
 | 000 | X  | X  | X  | X |
 | 001    | 0   | 0  | 1  | 0  |
 | 011    | X   | X  | X  | X  |
@@ -37,7 +37,7 @@ After Encoding C with J-K Flip Flop
 ### J<sub>1</sub>: Q<sub>2</sub>'CD' + Q<sub>0</sub>'CD					
 | Present State |CD||||
 | ------------- | --- | -- |--|--|
-| Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub> | 00  | 01 | 11 | 10 |
+| **Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub>** | 00  | 01 | 11 | 10 |
 |    000 | X  | X  | X  | X |
 | 001    | 0   | 0  | 0  | 1  |
 | 011    | X   | X  | X  | X  |
@@ -51,7 +51,7 @@ After Encoding C with J-K Flip Flop
 
 | Present State |CD||||
 | ------------- | --- | -- |--|--|
-| Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub>| 00  | 01 | 11 | 10 |
+| **Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub>**| 00  | 01 | 11 | 10 |
 | 000           | X  | X | X | X |
 | 001           | X   | X  | X | X |
 | 011           | X   | X  | X | X |
@@ -64,7 +64,7 @@ After Encoding C with J-K Flip Flop
 ### K<sub>2</sub>: C 					
 | Present State |     | CD |    |    |
 | ------------- | --- | -- | -- | -- |
-| Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub>| 00  | 01 | 11 | 10 |
+| **Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub>**| 00  | 01 | 11 | 10 |
 | 000 | X  | X  | X  | X |
 | 001           | X   | X  | X  | X  |
 | 011           | X   | X  | X  | X  |
@@ -76,7 +76,7 @@ After Encoding C with J-K Flip Flop
 ### K<sub>1</sub>: C
 | Present State |CD||||
 | ------------- | --- | -- |--|--|
-| Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub> | 00  | 01 | 11 | 10 |
+| **Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub>** | 00  | 01 | 11 | 10 |
 | 000 | X  | X  | X  | X |
 | 001    | X   | X  | X  | X  |
 | 011    | X   | X  | X  | X  |
@@ -90,7 +90,7 @@ After Encoding C with J-K Flip Flop
 ### K<sub>0</sub>: C
 | Present State |CD||||
 | ------------- | --- | -- |--|--|
-| Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub> | 00  | 01 | 11 | 10 |
+| **Q<sub>2</sub>Q<sub>1</sub>Q<sub>0</sub>** | 00  | 01 | 11 | 10 |
 | 000 | X  | X  | X  | X |
 | 001    | 0   | 0  | 1  | 1  |
 | 011    | X   | X  | X  | X  |
