@@ -1,4 +1,4 @@
-[Về trang chính](/readme.md)
+[Về trang chính](https://github.com/nakhoa1010/CE118#b%C3%A0i-t%E1%BA%ADp-l%C3%BD-thuy%E1%BA%BFt)
 ## **Week 1**: Thiết kế **mạch đếm 3 (modulo-3)** sau khi **mã hoá C (encoding C)** sử dụng **Flip-Flop JK**
 
 
