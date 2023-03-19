@@ -3,7 +3,7 @@
 ![W1_1](image/../../../image/w1_1.png)
 
 After Encoding C with J-K Flip Flop	
-
+## [Về trang chính](/readme.md)
 ### Next-State Table			
 
 |Present State|CD||||
