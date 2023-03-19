@@ -1,9 +1,13 @@
 <p align="center">
   <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit.png" />
 </p>
+<center>
 
 # CE118 - THIẾT KẾ LUẬN LÝ SỐ
-Đây là nơi mình lưu trữ các bài tập và các bài thực hành trên trường
+
+</center>
+
+Đây là nơi mình lưu trữ các bài tập và các bài thực hành trên trường.
 
 Giảng viên lý thuyết: **Lâm Đức Khải**
 
@@ -19,4 +23,4 @@ b) 32x8 RAM
 
 ## Thực Hành
 
-### LAB 1: THIẾT KẾ MẠCH ĐẾM ĐỒNG BỘ CÓ KHẢ NĂNG NẠP GIÁ TRỊ BAN ĐẦU (SONG SONG/NỐI TIẾP)
+**LAB 1:** THIẾT KẾ MẠCH ĐẾM ĐỒNG BỘ CÓ KHẢ NĂNG NẠP GIÁ TRỊ BAN ĐẦU (SONG SONG/NỐI TIẾP)
