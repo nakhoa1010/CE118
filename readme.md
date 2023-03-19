@@ -1,4 +1,6 @@
-![logo](https://www.uit.edu.vn/sites/vi/files/banner_uit.png)
+<p align="center">
+  <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit.png" />
+</p>
 # CE118 - THIẾT KẾ LUẬN LÝ SỐ
 Đây là nơi mình lưu trữ các bài tập và các bài thực hành trên trường
 
