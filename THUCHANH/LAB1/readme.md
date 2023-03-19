@@ -1,3 +1,2 @@
 # LAB 1: THIẾT KẾ MẠCH ĐẾM ĐỒNG BỘ CÓ KHẢ NĂNG NẠP GIÁ TRỊ BAN ĐẦU (SONG SONG/NỐI TIẾP)
-
-## Link bài báo cáo: 
+## [Nhấp vào đây để tải bài báo cáo](https://github.com/nakhoa1010/CE118/blob/main/image/LAB_1_20520903_CE118-N22-MTCL-2.pdf)
