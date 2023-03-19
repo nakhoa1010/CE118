@@ -24,4 +24,4 @@ b) 32x8 RAM
 
 ## Thực Hành
 
-**[LAB 1](https://github.com/nakhoa1010/CE118#th%E1%BB%B1c-h%C3%A0nh):** THIẾT KẾ MẠCH ĐẾM ĐỒNG BỘ CÓ KHẢ NĂNG NẠP GIÁ TRỊ BAN ĐẦU (SONG SONG/NỐI TIẾP)
+**[LAB 1](THUCHANH/LAB1/):** THIẾT KẾ MẠCH ĐẾM ĐỒNG BỘ CÓ KHẢ NĂNG NẠP GIÁ TRỊ BAN ĐẦU (SONG SONG/NỐI TIẾP)
