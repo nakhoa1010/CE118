@@ -10,9 +10,9 @@
 
 Đây là nơi mình lưu trữ các bài tập và các bài thực hành trên trường.
 
-Giảng viên lý thuyết: **Lâm Đức Khải**
+Giảng viên lý thuyết: **[Lâm Đức Khải](mailto:khaild@uit.edu.vn)**
 
-Giảng viên thực hành: **Tạ Trí Đức**
+Giảng viên thực hành: **[Tạ Trí Đức](mailto:ductt@uit.edu.vn)**
 ## Bài tập Lý Thuyết
 **[Week 1](LYTHUYET/WEEK1/):** Thiết kế **mạch đếm 3 (modulo-3)** sau khi **mã hoá C (encoding C)** sử dụng **Flip-Flop JK**
 
