@@ -1,0 +1,140 @@
+$comment
+	File created using the following command:
+		vcd file Lab1.msim.vcd -direction
+$end
+$date
+	Wed Mar 15 11:16:15 2023
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module Lab1_vlg_vec_tst $end
+$var reg 2 ! KEY [3:2] $end
+$var reg 4 " SW [3:0] $end
+$var wire 1 # HEX0 [6] $end
+$var wire 1 $ HEX0 [5] $end
+$var wire 1 % HEX0 [4] $end
+$var wire 1 & HEX0 [3] $end
+$var wire 1 ' HEX0 [2] $end
+$var wire 1 ( HEX0 [1] $end
+$var wire 1 ) HEX0 [0] $end
+$var wire 1 * O0 $end
+$var wire 1 + O1 $end
+$var wire 1 , O2 $end
+$var wire 1 - O3 $end
+$var wire 1 . sampler $end
+$scope module i1 $end
+$var wire 1 / gnd $end
+$var wire 1 0 vcc $end
+$var wire 1 1 unknown $end
+$var tri1 1 2 devclrn $end
+$var tri1 1 3 devpor $end
+$var tri1 1 4 devoe $end
+$var wire 1 5 KEY[3]~clk_delay_ctrl_clkout $end
+$var wire 1 6 KEY[3]~clkctrl_outclk $end
+$var wire 1 7 inst|inst99~combout $end
+$var wire 1 8 Q3~1_combout $end
+$var wire 1 9 inst|inst5~combout $end
+$var wire 1 : Q0~1_combout $end
+$var wire 1 ; inst|inst98~combout $end
+$var wire 1 < Q2~1_combout $end
+$var wire 1 = inst|inst3~combout $end
+$var wire 1 > Q1~1_combout $end
+$var wire 1 ? Q1~3_combout $end
+$var wire 1 @ Q1~0_combout $end
+$var wire 1 A Q1~_emulated_regout $end
+$var wire 1 B Q1~2_combout $end
+$var wire 1 C Q2~3_combout $end
+$var wire 1 D Q2~0_combout $end
+$var wire 1 E Q2~_emulated_regout $end
+$var wire 1 F Q2~2_combout $end
+$var wire 1 G Q0~3_combout $end
+$var wire 1 H Q0~0_combout $end
+$var wire 1 I Q0~_emulated_regout $end
+$var wire 1 J Q0~2_combout $end
+$var wire 1 K Q3~3_combout $end
+$var wire 1 L Q3~0_combout $end
+$var wire 1 M Q3~_emulated_regout $end
+$var wire 1 N Q3~2_combout $end
+$var wire 1 O inst31|87~combout $end
+$var wire 1 P inst31|86~0_combout $end
+$var wire 1 Q inst31|85~combout $end
+$var wire 1 R inst31|84~0_combout $end
+$var wire 1 S inst31|83~combout $end
+$var wire 1 T inst31|82~0_combout $end
+$var wire 1 U inst31|81~0_combout $end
+$var wire 1 V SW~combout [3] $end
+$var wire 1 W SW~combout [2] $end
+$var wire 1 X SW~combout [1] $end
+$var wire 1 Y SW~combout [0] $end
+$var wire 1 Z KEY~combout [3] $end
+$var wire 1 [ KEY~combout [2] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx !
+bx "
+x)
+x(
+x'
+x&
+x%
+x$
+x#
+x*
+x+
+x,
+x-
+x.
+0/
+10
+x1
+12
+13
+14
+x5
+x6
+x7
+x8
+x9
+x:
+x;
+x<
+x=
+x>
+x?
+x@
+0A
+xB
+xC
+xD
+0E
+xF
+xG
+xH
+0I
+xJ
+xK
+xL
+0M
+xN
+xO
+xP
+xQ
+xR
+xS
+xT
+xU
+xY
+xX
+xW
+xV
+x[
+xZ
+$end
+#1000000
