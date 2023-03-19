@@ -1,6 +1,7 @@
+[Về trang chính](/readme.md)
 ## **Week 1**: Thiết kế **mạch đếm 3 (modulo-3)** sau khi **mã hoá C (encoding C)** sử dụng **Flip-Flop JK**
 
-[Về trang chính](/readme.md)
+
 
 ![W1_1](image/../../../image/w1_1.png)
 
