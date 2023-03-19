@@ -1,11 +1,12 @@
 <p align="center">
   <img src="https://www.uit.edu.vn/sites/vi/files/banner_uit.png" />
 </p>
-<center>
+
+<p align="center">
 
 # CE118 - THIẾT KẾ LUẬN LÝ SỐ
 
-</center>
+</p>
 
 Đây là nơi mình lưu trữ các bài tập và các bài thực hành trên trường.
 
