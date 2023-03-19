@@ -1,6 +1,6 @@
 ## **Week 1**: Thiết kế **mạch đếm 3 (modulo-3)** sau khi **mã hoá C (encoding C)** sử dụng **Flip-Flop JK**
 
-![W1_1](https://github.com/nakhoa1010/CE118/blob/main/image/w1_1.png)
+![W1_1](image/../../../image/w1_1.png)
 
 After Encoding C with J-K Flip Flop	
 

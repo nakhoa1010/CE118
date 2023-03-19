@@ -14,7 +14,7 @@ Giảng viên lý thuyết: **Lâm Đức Khải**
 
 Giảng viên thực hành: **Tạ Trí Đức**
 ## Bài tập Lý Thuyết
-**[Week 1](LYTHUYET/WEEK1/)**: Thiết kế **mạch đếm 3 (modulo-3)** sau khi **mã hoá C (encoding C)** sử dụng **Flip-Flop JK**
+**[Week 1](LYTHUYET/WEEK1/):** Thiết kế **mạch đếm 3 (modulo-3)** sau khi **mã hoá C (encoding C)** sử dụng **Flip-Flop JK**
 
 **[Week 2](LYTHUYET/WEEK2/):**
 
