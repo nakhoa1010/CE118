@@ -16,7 +16,7 @@ Giảng viên thực hành: **Tạ Trí Đức**
 ## Bài tập Lý Thuyết
 **[Week 1](LYTHUYET/WEEK1/)**: Thiết kế **mạch đếm 3 (modulo-3)** sau khi **mã hoá C (encoding C)** sử dụng **Flip-Flop JK**
 
-**Week 2:**
+**[Week 2](LYTHUYET/WEEK2/):**
 
 a) 5-bit updown binary counter with paralel load
 
@@ -24,4 +24,4 @@ b) 32x8 RAM
 
 ## Thực Hành
 
-**LAB 1:** THIẾT KẾ MẠCH ĐẾM ĐỒNG BỘ CÓ KHẢ NĂNG NẠP GIÁ TRỊ BAN ĐẦU (SONG SONG/NỐI TIẾP)
+**[LAB 1](THUCHANH/LAB1/):** THIẾT KẾ MẠCH ĐẾM ĐỒNG BỘ CÓ KHẢ NĂNG NẠP GIÁ TRỊ BAN ĐẦU (SONG SONG/NỐI TIẾP)
